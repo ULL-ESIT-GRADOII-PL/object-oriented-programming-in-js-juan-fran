@@ -3,8 +3,6 @@
 function Medida(val,tipo){
     var valor;
     var tipo;
-
-
 }
 
 function Temperatura(){
